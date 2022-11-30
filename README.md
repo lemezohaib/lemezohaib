@@ -2,9 +2,10 @@
 - 👀 I’m interested in Android development 
 - 🌱 I’m currently learning stuff 
 - 💞️ I’m looking to collaborate with someone in a cool project 
-- 📫 How to reach me:Twitter/Telegram/facebook/instagram: @lemezohaib
+- 📫 How to reach me:zhbkhan644@gmail.com
 
-Email: zhbkhan644@gmail.com
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lemezohaib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lemezohaib) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lemezohaib)
 
 <!---
 lemezohaib/lemezohaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
