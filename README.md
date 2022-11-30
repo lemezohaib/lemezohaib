@@ -2,8 +2,8 @@
 - 👀 I’m interested in Android development 
 - 🌱 I’m currently learning stuff 
 - 💞️ I’m looking to collaborate with someone in a cool project 
-- 📫 How to reach me: 
-Twitter/Telegram/facebook/instagram: @lemezohaib
+- 📫 How to reach me:Twitter/Telegram/facebook/instagram: @lemezohaib
+
 Email: zhbkhan644@gmail.com
 
 <!---
