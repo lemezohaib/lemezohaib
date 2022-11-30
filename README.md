@@ -12,7 +12,7 @@
 <br/>
 <p align="left">
   <a href="https://zaidkhan.ml/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zaidkhan0997&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lemezohaib&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lemezohaib&theme=gruvbox&hide_border=true" />
   </a>
 </p>
