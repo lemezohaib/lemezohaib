@@ -5,7 +5,7 @@
 - 📫 How to reach me:zhbkhan644@gmail.com
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lemezohaib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lemezohaib) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lemezohaib)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lemezohaib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lemezohaib) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lemezohaib) <a href="https://t.me/lemezohaib">![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
 ## My Statistics
 
@@ -17,6 +17,8 @@
   </a>
 </p>
 <br>
+
+
 
 <!---
 lemezohaib/lemezohaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
