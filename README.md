@@ -84,5 +84,3 @@
 ![Snake animation](https://github.com/mrfox2003/mrfox2003/blob/output/github-contribution-grid-snake.svg)
 
 <br />
-
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemezohaib"&theme=gruvbox&hide_border=true" />
