@@ -58,6 +58,9 @@
 
 <br />
 
+## <b>Designing and creativity </b>
+![image](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=black)
+
 <br />
 
 <div align="center">
