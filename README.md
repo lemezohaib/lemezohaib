@@ -10,7 +10,6 @@
 ---
 
 ## My Statistics
-
 <br/>
 <p align="left">
   <a href="https://zaidkhan.ml/">
@@ -83,7 +82,7 @@
 </div>
 
 ![Snake animation](https://github.com/mrfox2003/mrfox2003/blob/output/github-contribution-grid-snake.svg)
-<!---
-lemezohaib/lemezohaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<br />
+
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemezohaib"&theme=gruvbox&hide_border=true" />
