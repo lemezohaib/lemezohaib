@@ -4,10 +4,14 @@
 - 💞️ I’m looking to collaborate with someone in a cool project 
 - 📫 How to reach me:zhbkhan644@gmail.com
 
-## 🌐Socials
+### <b>Socials: </b>
 <a href="https://t.me/lemezohaib">![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lemezohaib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lemezohaib) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lemezohaib)
-<br/>
+<a href="https://mail.google.com/mail/u/0/#inbox.com/channels/zhbkhan644@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.facebook.com/lemezohaib">![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href="https://gitlab.com/lemezohaib">![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a>
+<a href="https://twitter.com/lemezohaih">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://instagram.com/lemezohaib">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<br />
 ---
 
 ## My Statistics
