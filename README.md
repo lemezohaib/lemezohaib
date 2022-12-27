@@ -1,7 +1,4 @@
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=lemezohaib&label=Profile%20Views&pretty=true" />
-</a>
-<br>
+[![](https://visitcount.itsvg.in/api?id=lemezohaib&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 - 👋 Hi, I’m @lemezohaib
 - 👀 I’m interested in Android development 
