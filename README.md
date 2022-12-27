@@ -1,3 +1,7 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=lemezohaib&label=Profile%20Views&pretty=true" />
+</a>
+
 - 👋 Hi, I’m @lemezohaib
 - 👀 I’m interested in Android development 
 - 🌱 I’m currently learning python, java
