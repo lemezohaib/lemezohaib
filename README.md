@@ -1,9 +1,7 @@
-[![](https://visitcount.itsvg.in/api?id=lemezohaib&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 - 👋 Hi, I’m @lemezohaib
 - 👀 I’m interested in Android development 
 - 🌱 I’m currently learning python, java
-- 💞️ I’m looking to collaborate with someone in a cool project 
 - 📫 How to reach me:zhbkhan644@gmail.com
 
 ### <b>Socials: </b>
